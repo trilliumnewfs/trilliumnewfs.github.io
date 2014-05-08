@@ -1,0 +1,8 @@
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css">
+  <link rel="stylesheet" href="./assets/css/carousel.fullscreen.css" />
+  <link rel="stylesheet" href="./assets/css/well.transparency.css" />
+</head>
