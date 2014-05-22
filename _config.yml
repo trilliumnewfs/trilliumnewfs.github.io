@@ -6,8 +6,7 @@ markdown: redcarpet
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title: Klinefelter's Doge
-tagline: Such Puppy!
+title: Trillium Newfoundlands
 author:
   name:
   email: kligallery@msn.com
@@ -22,7 +21,7 @@ author:
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-baseurl: trilliumnewfs.com
+# baseurl: trilliumnewfs.com
 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
