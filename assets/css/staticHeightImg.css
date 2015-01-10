@@ -8,3 +8,8 @@
 	padding: 5px;
 }
 
+.carousel-control {
+  &.left, &.right {
+    background-image: none !important;
+  }
+}
