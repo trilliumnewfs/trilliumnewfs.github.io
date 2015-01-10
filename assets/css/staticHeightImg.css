@@ -1,4 +1,10 @@
-.heightLock500 {
+.heightlock {
 	height: 500px;
 	width: auto;
 }
+
+.navbarcustom {
+	height: 80px;
+	padding: 5px;
+}
+
