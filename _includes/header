@@ -4,4 +4,8 @@
 
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css">
   <!-- <link rel="stylesheet" href="./assets/css/well.transparency.css" /> -->
+
+  <link rel="stylesheet" href="./assets/css/staticHeightImg.css" />
+
+
 </head>
