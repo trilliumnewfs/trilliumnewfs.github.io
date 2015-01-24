@@ -3,13 +3,16 @@
 	width: auto;
 }
 
-.navbarcustom {
-	height: 80px;
-	padding: 5px;
-}
-
 .carousel-control {
   &.left, &.right {
     background-image: none !important;
   }
+}
+.navbuttons {
+	padding: 13px;
+	font-size: 15px;
+}
+
+.navheight{
+	height: 72px;
 }
