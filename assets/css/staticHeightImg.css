@@ -1,12 +1,14 @@
 .heightlock {
+	display: block;
 	height: 500px;
-	width: auto;
+	max-width:100%: auto;
+	background-size: auto;
 }
 
-.carousel-control {
-  &.left, &.right {
-    background-image: none !important;
-  }
+.carousel-control.left , .carousel-control.right{
+
+  background-image: none;
+  
 }
 .navbuttons {
 	padding: 13px;
@@ -15,4 +17,12 @@
 
 .navheight{
 	height: 72px;
+}
+
+.centertxt {
+	text-align: center;
+}
+
+.center {
+	padding: 2px;
 }
