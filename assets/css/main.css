@@ -33,7 +33,9 @@
 html, body {
     height: 100%;
 }
-#carousel-main, .item, .active {
+#carousel-main, .main-item {
+    position: fixed;
+    width: 100%;
     height: 100%;
 }
 .carousel-inner {
