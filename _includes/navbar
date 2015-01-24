@@ -1,16 +1,16 @@
-<div class="navbar navbar-default navbar-fixed-top navheight" role="navigation">
+<div class="navbar navbar-default" role="navigation">
   <div class="container">
-    <div class="navbar-header navbar navbar">
+    <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a href = "/"> <img src= "/assets/images/logos/logoWhiteLR.png" /></a>
+      <a href="/"><img src="/assets/images/logos/logoWhiteLR.png"/></a>
     </div>
     <div class="navbar-collapse collapse">
-      <ul class="nav navbar-nav navbuttons">
+      <ul class="nav navbar-nav">
         {% assign pages_list = site.pages %}
         {% assign group = 'navigation' %}
         {% include page_list %}
@@ -18,5 +18,3 @@
     </div>
   </div>
 </div>
-
-<br>
