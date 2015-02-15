@@ -3,6 +3,6 @@
   <title>{{ page.title }} | {{ site.title }}</title>
 
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css">
-  <link rel="stylesheet" href="/assets/css/staticHeightImg.css" />
   <link rel="stylesheet" href="/assets/css/main.css" />
+
 </head>
