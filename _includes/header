@@ -1,6 +1,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="keywords" content="Newfoundland, Puppy, dog, dogs, Newfoundlands, Trillium, Champion, Show, Working, Michigan, Whitehall, Litter, Breeder, Puppies, Champions, conformation, reputable, responsible, Kismet, Jasmine" />
+  <meta name="description" content="We are breeders of Newfoundlands in Whitehall, Michigan. We participate in conformation and working events."/>
   <title>{{ page.title }} | {{ site.title }}</title>
 
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css">
