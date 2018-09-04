@@ -29,5 +29,73 @@
   margin-right: auto;
 }
 
+/*TODO replace repeated code with a div class - for some reason, the div class style changes are being overridden but when done by div id, they are not*/
 
+#phoebe_photo_carousel1 .carousel-inner{
+    width: auto;
+    height: 40em;
+    vertical-align: middle;
+  }
+
+#phoebe_photo_carousel1 .carousel-inner>.active{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+#phoebe_photo_carousel1 .carousel-inner>.next,
+#phoebe_photo_carousel1 .carousel-inner>.prev{
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#pink_photo_carousel1 .carousel-inner{
+    width: auto;
+    height: 40em;
+    vertical-align: middle;
+  }
+
+#pink_photo_carousel1 .carousel-inner>.active{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+#pink_photo_carousel1 .carousel-inner>.next,
+#pink_photo_carousel1 .carousel-inner>.prev{
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#jasmine_photo_carousel1 .carousel-inner{
+    width: 100%;
+    height: 40em;
+    vertical-align: middle;
+  }
+
+#jasmine_photo_carousel1 .carousel-inner>.active{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+#jasmine_photo_carousel1 .carousel-inner>.next,
+#jasmine_photo_carousel1 .carousel-inner>.prev{
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#kismet_photo_carousel1 .carousel-inner{
+    width: 100%;
+    height: 40em;
+    vertical-align: middle;
+  }
+
+#kismet_photo_carousel1 .carousel-inner>.active{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+#kismet_photo_carousel1 .carousel-inner>.next,
+#kismet_photo_carousel1 .carousel-inner>.prev{
+    top: 50%;
+    transform: translateY(-50%);
+}
 
